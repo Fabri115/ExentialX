@@ -1,21 +1,21 @@
-# `𝐄ИΞM𝕀Ξ𝐒 🛡️⃟🏴‍☠️ 𝐁Ꮻ𝐓`
+# `☁️𝑴𝒐𝒐𝒏𝑪𝒍𝒐𝒖𝒅𝒔⇝𝐁Ꮻ𝐓☁️`
   
 ### `—◉ 💥 ATTIVA SU KOYEB 💥`
 
-[![Attiva su Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/unlimited787/Enemies-md-ofc&branch=master&name=mysticbot)
+[![Attiva su Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Fabri115/BotWhaIta&branch=master&name=mysticbot)
   
-### `—◉ 🌌 ATTIVA SU REPLIT 🌌`
+### `—◉ 🌌 ATTIVA 𝑴☁️ SU REPLIT 🌌`
 
-[![Attiva su Repl.it](https://repl.it/badge/github/unlimited787/Enemies-md-ofc)](https://repl.it/github/unlimited787/Enemies-md-ofc)  
+[![Attiva su Repl.it](https://repl.it/badge/github.com/Fabri115/BotWhaIta)](https://repl.it/github.com/Fabri115/BotWhaIta)  
 
-### `—◉ ⚙️ CONFIGURAZIONE ⚙️`
-- CLONARE LA REPOSITORY [qui](https://github.com/unlimited787/Enemies-md-ofc/fork)
-- CAMBIARE NUMERO DEL PROPRIETARIO [qui](https://github.com/unlimited787/Enemies-md-ofc/blob/master/config.js)
+### `—◉ ⚙️ CONFIGURAZIONE 𝑴☁️ ⚙️`
+- CLONARE LA REPOSITORY [qui](https://github.com/Fabri115/BotWhaIta/fork)
+- CAMBIARE NUMERO DEL PROPRIETARIO [qui](https://github.com/Fabri115/BotWhaIta/blob/master/config.js)
 
 ### `—◉ VERSIONE DI TERMUX NECESSARIA: ` 
 https://www.mediafire.com/file/0npdmv51pnttps0/com.termux_0.119.1-119_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk/file
 
-### `—◉ 👾 ATTIVA IN TERMUX 👾` 
+### `—◉ 👾 ATTIVA 𝑴☁️ IN TERMUX 👾` 
 - DIGITA QUESTI COMANDI:
 ```bash
 cd && termux-setup-storage
@@ -30,7 +30,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/unlimited787/Enemies-md-ofc && cd Enemies-md-ofc
+git clone https://github.com/Fabri115/BotWhaIta && cd BotWhaIta
 ```
 
 ```bash
@@ -49,25 +49,50 @@ npm update
 sh start.sh
 ```
 
-### `—◉ ✔️ AVVIA IN TERMUX ✔️`
+### `—◉ ✔️ AVVIA 𝑴☁️ IN TERMUX ✔️`
 ```bash
 DIGITA QUESTI COMANDI:
 > cd 
-> cd Enemies-md-ofc
+> cd BotWhaIta
 > sh start.sh
 ```
 
-### `—◉ 👽 OTTIENI UN ALTRO CODICE QR 👽`
+### `—◉ 👽 OTTIENI UN ALTRO CODICE QR 𝑴☁️ 👽`
 ```bash
 DIGITA QUESTI COMANDI:
 > cd 
-> cd Enemies-md-ofc
+> cd BotWhaIta
 > rm -rf MysticSession
 > sh start.sh
 ```
 
-### `—◉ 📝 NOTE 📝`
-- IL BOT E' COMPATIBILE CON WHATSAPP BUSINESS E WHATSAPP NORMALE
+### `FOR WINDOWS/VPS/RDP USER`
+
+* Download And Install Git [`Click Here`](https://git-scm.com/downloads)
+* Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download)
+* Download And Install FFmpeg [`Click Here`](https://ffmpeg.org/download.html) (**Don't Forget Add FFmpeg to PATH enviroment variables**)
+* Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
+
+```bash
+git clone https://github.com/Fabri115/BotWhaIta
+cd BotWhaIta
+npm install
+npm update
+```
+
+---------
+
+### `Run`
+
+```bash
+node .
+```
+
+---------
+
+### `—◉ 📝 NOTE 𝑴☁️ 📝`
+- IL BOT 𝑴☁️ E' COMPATIBILE CON WHATSAPP BUSINESS E WHATSAPP NORMALE
 - PER BLOCCARE GLI UTENTI IN PRIVATO ESEGUI IL COMANDO .attiva antiprivato
-- ALL'AVVIO ESEGUI IL COMANDO .attiva restrict DAL NUMERO DEL BOT
+- VERSIONE 'MENU' ANDROID (MENU2) | VERSIONE MENUIOS (MENU)
+- VERSIONE 'ATTIVA' ANDROID (es. Attiva/Disabilita antilink)  |  VERSIONE 'ATTIVA' IOS (ATTIVA) 
 

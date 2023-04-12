@@ -8,17 +8,17 @@ import axios from 'axios'
 import moment from 'moment-timezone' 
 
 global.owner = [
-  ['68987330000', 'OmBra', true],
-  ['39037171771']
+  ['393518398856', 'Fabri', true],
+  ['39']
 ] 
 
-global.suittag = ['68987330000'] 
-global.prems = ['68987330000','39037171771'] 
+global.suittag = ['393518398856'] 
+global.prems = ['393518398856','393518398856'] 
 
-global.packname = '𝐄ИΞM𝕀Ξ𝐒'
+global.packname = 'ExentialX'
 global.author = '𝐁Ꮻ𝐓'
-global.wm = '𝐄ИΞM𝕀Ξ𝐒 𝐁Ꮻ𝐓'
-global.igfg = '𝐄ИΞM𝕀Ξ𝐒 𝐁Ꮻ𝐓'
+global.wm = 'ExentialX 𝐁Ꮻ𝐓'
+global.igfg = 'ExentialX 𝐁Ꮻ𝐓'
 global.wait = 'ok'
 
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
@@ -420,7 +420,7 @@ global.mes = d.toLocaleDateString('es', { month: 'long' })
 global.año = d.toLocaleDateString('es', { year: 'numeric' })
 global.tiempo = d.toLocaleString('en-US', { hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true })
 //*****************************
-global.wm2 = `𝐄ИΞM𝕀Ξ𝐒 🛡️⃟🏴‍☠️ 𝐁Ꮻ𝐓`
+global.wm2 = `ExentialX☠️ 𝐁Ꮻ𝐓`
 global.gt = '𝐁Ꮻ𝐓'
 global.mysticbot = '𝐁Ꮻ𝐓'
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD'
@@ -428,7 +428,7 @@ global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD'
 global.waitt = 'ok'
 global.waittt = 'ok'
 global.waitttt = 'ok'
-global.nomorown = '393312171655'
+global.nomorown = '393518398856'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 global.cmenut = '❖––––––『'
 global.cmenub = '┊✦ '

@@ -6,7 +6,7 @@
   
 ### `—◉ 🌌 ATTIVA 𝑴☁️ SU REPLIT 🌌`
 
-[![Attiva su Repl.it](https://repl.it/badge/github.com/Fabri115/ExentialX)](https://repl.it/github.com/Fabri115/ExentialX)  
+[![Attiva su Repl.it](https://repl.it/badge/github/unlimited787/Enemies-md-ofc)](https://repl.it/github/unlimited787/Enemies-md-ofc)  
 
 ### `—◉ ⚙️ CONFIGURAZIONE 𝑴☁️ ⚙️`
 - CLONARE LA REPOSITORY [qui](https://github.com/Fabri115/ExentialX/fork)
